@@ -1,0 +1,9 @@
+$color: #f66;
+body{
+    background: $color;
+    h1{
+        font-size: 44px;
+        color: red;
+        border: 2px solid green;
+    }
+}
